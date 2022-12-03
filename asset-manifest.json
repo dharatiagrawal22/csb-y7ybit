@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dharatiagrawal22.github.io/csb-y7ybit/static/css/main.506cb548.chunk.css",
+    "main.js": "https://dharatiagrawal22.github.io/csb-y7ybit/static/js/main.832aba2d.chunk.js",
+    "main.js.map": "https://dharatiagrawal22.github.io/csb-y7ybit/static/js/main.832aba2d.chunk.js.map",
+    "runtime-main.js": "https://dharatiagrawal22.github.io/csb-y7ybit/static/js/runtime-main.3a211427.js",
+    "runtime-main.js.map": "https://dharatiagrawal22.github.io/csb-y7ybit/static/js/runtime-main.3a211427.js.map",
+    "static/js/2.26c5c81e.chunk.js": "https://dharatiagrawal22.github.io/csb-y7ybit/static/js/2.26c5c81e.chunk.js",
+    "static/js/2.26c5c81e.chunk.js.map": "https://dharatiagrawal22.github.io/csb-y7ybit/static/js/2.26c5c81e.chunk.js.map",
+    "index.html": "https://dharatiagrawal22.github.io/csb-y7ybit/index.html",
+    "static/css/main.506cb548.chunk.css.map": "https://dharatiagrawal22.github.io/csb-y7ybit/static/css/main.506cb548.chunk.css.map",
+    "static/js/2.26c5c81e.chunk.js.LICENSE.txt": "https://dharatiagrawal22.github.io/csb-y7ybit/static/js/2.26c5c81e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a211427.js",
+    "static/js/2.26c5c81e.chunk.js",
+    "static/css/main.506cb548.chunk.css",
+    "static/js/main.832aba2d.chunk.js"
+  ]
+}
